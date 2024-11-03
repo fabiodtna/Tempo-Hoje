@@ -9,7 +9,7 @@ O aplicativo está conectado a uma API do 'https://openweather.co.uk/' que forne
 Isso garante que as informações apresentadas sejam precisas e reflitam as condições atuais da cidade. A 
 integração com a API permite que o aplicativo busque dados como temperatura, umidade e sensação térmica de maneira eficiente, 
 
-Apk .zip https://github.com/fabiodtna/Tempo-Hoje/blob/main/apktemp.zip
+Apk -> https://github.com/fabiodtna/Tempo-Hoje/blob/main/apktemp.zip
 
 
  <div style="text-align: center;">
