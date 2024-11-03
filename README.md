@@ -12,5 +12,5 @@ integração com a API permite que o aplicativo busque dados como temperatura, u
 
 
  <div style="text-align: center;">
-  <img width="80px" src="https://github.com/fabiodtna/Tempo-Hoje/blob/main/plambeach.jpeg" alt="Captura de tela do App" style="vertical-align:top;">
+  <img width="150px" src="https://github.com/fabiodtna/Tempo-Hoje/blob/main/plambeach.jpeg" alt="Captura de tela do App" style="vertical-align:top;">
 </div>
